@@ -1,0 +1,11 @@
+ Patient_ID ,Patient_Name,Age,Gender,Disease,Doctor_Name,Department,Admission_Date,Discharge_Date,Bill_Amount
+P001,Ravi Kumar,45,Male,Diabetes,Dr. Suresh,General Medicine,01-03-26,05-03-26,15000
+P002,Priya Sharma,30,Female,Fever,Dr. Anitha,General Medicine,02-03-26,04-03-26,5000
+P003,Arun Raj,60,Male,Heart Disease,Dr. Mohan,Cardiology,03-03-26,10-03-26,50000
+P004,Meena Devi,25,Female,Pregnancy,Dr. Lakshmi,Gynecology,04-03-26,08-03-26,20000
+P006,Sneha Reddy,28,Female,Migraine,Dr. Anitha,Neurology,06-03-26,09-03-26,12000
+P007,Vijay Kumar,50,Male,BP,Dr. Suresh,General Medicine,07-03-26,11-03-26,14000
+P008,Divya,22,Female,Skin Allergy,Dr. Priya,Dermatology,08-03-26,09-03-26,4000
+P009,Ramesh,65,Male,Asthma,Dr. Mohan,Pulmonology,09-03-26,15-03-26,22000
+P010,Anjali,40,Female,Typhoid,Dr. Suresh,General Medicine,10-03-26,14-03-26,18000
+P011,Vishal,18,Male,Heart Attack,Dr.Suman,Cardiology,10-3-25,10=5-25,300000
